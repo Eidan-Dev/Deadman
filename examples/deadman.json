@@ -1,0 +1,6 @@
+{
+  "jobs": [
+    { "name": "backup", "every": "1d", "grace": "1h" },
+    { "name": "sync", "every": "1h", "grace": "10m" }
+  ]
+}
